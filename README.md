@@ -1,3 +1,6 @@
+<span style="color:blue">some *blue* text</span>
+
+
 # Mission to Mars
 ![images/mission_to_mars.jpg](images/mission_to_mars.jpg)
 
